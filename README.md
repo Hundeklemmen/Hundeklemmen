@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-JavaScript   37 mins         ██████████████████▒░░░░░░   73.25 % 
-JSON         9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.61 % 
-YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+JavaScript   43 mins         ████████████▓░░░░░░░░░░░░   50.16 % 
+Arduino      30 mins         ████████▓░░░░░░░░░░░░░░░░   34.38 % 
+JSON         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 <!--END_SECTION:waka-->
