@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 44 mins    ███████▓░░░░░░░░░░░░░░░░░   30.01 % 
-Go           1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Java         45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-JSON         42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Arduino      30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Other        7 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.69 % 
+JSON         3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Vue.js       3 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
+JavaScript   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
