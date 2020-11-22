@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Other                      28 hrs 52 mins  █████████████████████▓░░░   86.69 % 
-Vue.js                     2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JavaScript                 1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-JSON                       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Nginx configuration file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other        27 hrs 59 mins  ███████████████████████▒░   93.92 % 
+JavaScript   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Vue.js       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
