@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Other                      9 hrs 9 mins    ██████████████████████▓░░   90.69 % 
-JavaScript                 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Docker                     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Bash                       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Nginx configuration file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other        9 hrs 9 mins    ██████████████░░░░░░░░░░░   55.95 % 
+Java         4 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.84 % 
+JavaScript   1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+TOML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Docker       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
